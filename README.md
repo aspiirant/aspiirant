@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Python!
 - 💬 Ask me about anything!
 - ⚡ Fun fact: I'm a student!
-- 📫 How to reach me: 
-    Discord: aspiirant
-    Telegram: @envy764
+- 📫 How to reach me: \
+    Discord: aspiirant \
+    Telegram: @envy764 \
     (Other ways coming soon)
 
 <!--
