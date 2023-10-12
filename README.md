@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python and Python frameworks, Azure, SQL**
 
-- ⚡ Fun fact **(I don't like front-end-development)**
+- ⚡ Fun fact **(I don't like front-end development)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
