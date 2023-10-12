@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **college assignments**
 
-- 🌱 I’m currently learning **Python and Python frameworks, Azure, SQL**
+- 🌱 I’m currently learning **Python and Python frameworks, Azure, SQL, Docker**
 
 - ⚡ Fun fact **(I don't like front-end development)**
 
