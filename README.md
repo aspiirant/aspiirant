@@ -7,13 +7,6 @@
 
 - ⚡ Fun fact **(I don't like front-end development)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="username: aspiirant" height="30" width="40" />Discord user: aspiirant</a>
-
-<a target="blank"><img align="center" src="https://th.bing.com/th/id/R.0fa74e4500470561e7acc284d99fa917?rik=JOS6kwUZGVHphA&pid=ImgRaw&r=0" alt="username: envy764" height="30" width="40" />Telegram user: envy764</a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
