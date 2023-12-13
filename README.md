@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joey</h1>
 <h3 align="center">A passionate college student!</h3>
 
-- 🔭 I’m currently working on **college assignments**
+- 🔭 I’m currently working on **a college project!**
 
-- 🌱 I’m currently learning **Python and Python modules, Azure, SQL, Docker**
-
-- ⚡ Fun fact **(I don't like front-end development)**
+- 🌱 I’m currently learning **Python, SQL**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
